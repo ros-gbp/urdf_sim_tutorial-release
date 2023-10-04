@@ -1,0 +1,12 @@
+Source: ros-humble-urdf-sim-tutorial
+Section: misc
+Priority: optional
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake, ros-humble-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-humble-urdf-sim-tutorial
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-controller-manager, ros-humble-diff-drive-controller, ros-humble-gazebo-ros, ros-humble-position-controllers, ros-humble-robot-state-publisher, ros-humble-rqt-robot-steering, ros-humble-rviz2, ros-humble-urdf-tutorial, ros-humble-xacro, ros-humble-ros-workspace
+Description: The urdf_sim_tutorial package
