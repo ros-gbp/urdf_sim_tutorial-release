@@ -1,3 +1,26 @@
+## urdf_sim_tutorial (iron) - 1.0.1-1
+
+The packages in the `urdf_sim_tutorial` repository were released into the `iron` distro by running `/usr/bin/bloom-release -r iron urdf_sim_tutorial` on `Mon, 09 Oct 2023 16:02:17 -0000`
+
+The `urdf_sim_tutorial` package was released.
+
+Version of package(s) in repository `urdf_sim_tutorial`:
+
+- upstream repository: https://github.com/ros/urdf_sim_tutorial.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## urdf_sim_tutorial (humble) - 1.0.1-1
 
 The packages in the `urdf_sim_tutorial` repository were released into the `humble` distro by running `/usr/bin/bloom-release -r humble urdf_sim_tutorial` on `Wed, 04 Oct 2023 18:11:53 -0000`
