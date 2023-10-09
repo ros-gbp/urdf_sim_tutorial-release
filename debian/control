@@ -1,0 +1,12 @@
+Source: ros-iron-urdf-sim-tutorial
+Section: misc
+Priority: optional
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-iron-ament-cmake, ros-iron-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-iron-urdf-sim-tutorial
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-iron-controller-manager, ros-iron-diff-drive-controller, ros-iron-gazebo-ros, ros-iron-position-controllers, ros-iron-robot-state-publisher, ros-iron-rqt-robot-steering, ros-iron-rviz2, ros-iron-urdf-tutorial, ros-iron-xacro, ros-iron-ros-workspace
+Description: The urdf_sim_tutorial package
