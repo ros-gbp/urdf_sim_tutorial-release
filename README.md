@@ -1,3 +1,26 @@
+## urdf_sim_tutorial (noetic) - 0.5.1-2
+
+The packages in the `urdf_sim_tutorial` repository were released into the `noetic` distro by running `/usr/bin/bloom-release urdf_sim_tutorial -r noetic -y` on `Wed, 14 May 2025 01:37:42 -0000`
+
+The `urdf_sim_tutorial` package was released.
+
+Version of package(s) in repository `urdf_sim_tutorial`:
+
+- upstream repository: https://github.com/ros/urdf_sim_tutorial.git
+- release repository: https://github.com/ros-gbp/urdf_sim_tutorial-release.git
+- rosdistro version: `0.5.1-1`
+- old version: `0.5.1-1`
+- new version: `0.5.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## urdf_sim_tutorial (iron) - 1.0.1-1
 
 The packages in the `urdf_sim_tutorial` repository were released into the `iron` distro by running `/usr/bin/bloom-release -r iron urdf_sim_tutorial` on `Mon, 09 Oct 2023 16:02:17 -0000`
